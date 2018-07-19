@@ -7,3 +7,6 @@ mac is first test
 
 
 mca two add id_rsa.pub to git
+
+
+change to wangbao mac
