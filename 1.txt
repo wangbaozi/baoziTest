@@ -12,3 +12,5 @@ mca two add id_rsa.pub to git
 change to wangbao mac
 
 333
+
+git config wangbao 2361804010@qq.com
