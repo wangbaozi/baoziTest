@@ -4,3 +4,6 @@ baozi try one111
 two try two222
 
 mac is first test 
+
+
+mca two add id_rsa.pub to git
